@@ -1,8 +1,8 @@
 # db-migrations-examples
 
-MySQL/PostgreSQL/MongoDB için örnek migration, rollback ve seed akışları.
+Example migrations, rollbacks, and seeds for MySQL/PostgreSQL/MongoDB.
 
-## Komutlar
+## Commands
 - knex migrate:latest
 - knex migrate:rollback
 - prisma migrate deploy
